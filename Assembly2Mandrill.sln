@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Assembly2Mandrill", "Assembly2Mandrill\Assembly2Mandrill.vcxproj", "{C0F8F384-5434-4726-A814-4423155F433A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pugixml_vs2019", "lib\pugixml\scripts\pugixml_vs2019.vcxproj", "{07CF01C0-B887-499D-AD9C-799CB6A9FE64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{C0F8F384-5434-4726-A814-4423155F433A}.Release|x64.Build.0 = Release|x64
 		{C0F8F384-5434-4726-A814-4423155F433A}.Release|x86.ActiveCfg = Release|Win32
 		{C0F8F384-5434-4726-A814-4423155F433A}.Release|x86.Build.0 = Release|Win32
+		{07CF01C0-B887-499D-AD9C-799CB6A9FE64}.Debug|x64.ActiveCfg = Debug|x64
+		{07CF01C0-B887-499D-AD9C-799CB6A9FE64}.Debug|x64.Build.0 = Debug|x64
+		{07CF01C0-B887-499D-AD9C-799CB6A9FE64}.Debug|x86.ActiveCfg = Debug|Win32
+		{07CF01C0-B887-499D-AD9C-799CB6A9FE64}.Debug|x86.Build.0 = Debug|Win32
+		{07CF01C0-B887-499D-AD9C-799CB6A9FE64}.Release|x64.ActiveCfg = Release|x64
+		{07CF01C0-B887-499D-AD9C-799CB6A9FE64}.Release|x64.Build.0 = Release|x64
+		{07CF01C0-B887-499D-AD9C-799CB6A9FE64}.Release|x86.ActiveCfg = Release|Win32
+		{07CF01C0-B887-499D-AD9C-799CB6A9FE64}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
